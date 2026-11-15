@@ -35,3 +35,16 @@ Se incluyen evidencias de los siguientes escenarios:
 2. Precio negativo.
 3. Nombre vacío.
 4. Cantidad cero.
+## Evidencias de ejecución
+
+### 1. Productos válidos
+![Productos válidos](capturas/productos-validos.png)
+
+### 2. Precio negativo
+![Precio negativo](capturas/precio-negativo.png)
+
+### 3. Nombre vacío
+![Nombre vacío](capturas/nombre-vacio.png)
+
+### 4. Cantidad cero
+![Cantidad cero](capturas/cantidad-cero.png)
